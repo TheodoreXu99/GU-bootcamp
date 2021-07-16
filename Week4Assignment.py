@@ -54,7 +54,7 @@ def main():
                'zipCode':zipcode,
                'date': date,
                'distance': '5',
-               'API_KEY': '3FF488E8-B96E-4370-8F70-78DFA6F1FFE3'
+               'API_KEY': '3FF488E8-B96E-4370-8F70-XXXXXXXX'
                     }              
                     
     
